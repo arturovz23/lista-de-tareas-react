@@ -1,6 +1,6 @@
 :root {
 	--verde: #80BE4E;
-	--azul: #007AEA;
+	--primary: #FDBF36;
 }
 
 .contenedor { 	
@@ -23,7 +23,7 @@
 	justify-content: space-between;
 	height: 60px;
 	padding: 0 20px;
-	background: var(--azul);
+	background: var(--primary);
 	color: #fff;
 	border-radius: 3px 3px 0px 0px;
 }
@@ -39,7 +39,7 @@
 	color: #fff;
 	border: none;
 	cursor: pointer;
-	background: #004c92;
+	background: #c79221;
 	padding: 5px 10px;
 	border-radius: 3px;
 	display: flex;
