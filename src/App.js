@@ -1,5 +1,5 @@
 import React, {useState, useEffect} from 'react'
-import './App.css';
+import './scss/app.scss';
 import Header from './componentes/Header'
 import FormularioTareas from './componentes/FormularioTareas';
 import ListaTareas from './componentes/ListaTareas'
